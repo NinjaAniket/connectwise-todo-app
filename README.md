@@ -9,16 +9,18 @@ This is a simple Todo application Assignment built using React, Typescript, Vite
 ### Installation
 
 1. Clone the repository:
+
    git clone https://github.com/NinjaAniket/connectwise-todo-app.git
+   
    cd connectwise-todo-app
 
-2. Install the dependencies:
+3. Install the dependencies:
    npm install
 
-3. Start the development server:
+4. Start the development server:
    npm run dev
   
-4. To run the unit tests, use the following command:
+5. To run the unit tests, use the following command:
    npm run test
 
 Site Deployed on Netlify
