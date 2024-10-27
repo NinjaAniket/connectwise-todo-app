@@ -25,3 +25,6 @@ This is a simple Todo application Assignment built using React, Typescript, Vite
 
 Site Deployed on Netlify
 https://connectwise-todo-app.netlify.app/
+
+
+**Note:** Committed `.env` files are included for reference purposes only.
